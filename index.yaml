@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  rancheros-operator:
+  - annotations:
+      catalog.cattle.io/certified: rancher
+      catalog.cattle.io/experimental: "true"
+      catalog.cattle.io/namespace: cattle-rancheros-operator-system
+      catalog.cattle.io/os: linux
+      catalog.cattle.io/provides-gvr: managedoses.rancheros.cattle.io/v1
+      catalog.cattle.io/release-name: rancheros-operator
+    apiVersion: v2
+    appVersion: v0.1.0-alpha1
+    created: "2022-03-24T20:06:26.997480357Z"
+    description: RancherOS Operator
+    digest: b0455dcd53187d866f20fb940682cfe4b9591be94742e90f2d96e8d9ed617163
+    icon: https://charts.rancher.io/assets/logos/rancheros-operator.svg
+    name: rancheros-operator
+    urls:
+    - https://rancher-sandbox.github.io/rancheros-operator/build/rancheros-operator-v0.1.0-alpha1.tgz
+    version: v0.1.0-alpha1
+generated: "2022-03-24T20:06:26.996152846Z"
