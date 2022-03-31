@@ -10,7 +10,7 @@ entries:
       catalog.cattle.io/release-name: rancheros-operator
     apiVersion: v2
     appVersion: v0.1.0-alpha2
-    created: "2022-03-31T09:49:10.851991494Z"
+    created: "2022-03-31T09:52:31.18057654Z"
     description: RancherOS Operator
     digest: 84a7209017f1390f7f6a31180c630f31ad9b72b8839b7393816211047a792573
     icon: https://charts.rancher.io/assets/logos/rancheros-operator.svg
@@ -27,7 +27,7 @@ entries:
       catalog.cattle.io/release-name: rancheros-operator
     apiVersion: v2
     appVersion: v0.1.0-alpha1
-    created: "2022-03-31T09:49:10.851237889Z"
+    created: "2022-03-31T09:52:31.180227237Z"
     description: RancherOS Operator
     digest: c383db43e9594dccd508dd889e5786344aa624ee6ad1c2764efc8266c0cec2c3
     icon: https://charts.rancher.io/assets/logos/rancheros-operator.svg
@@ -35,4 +35,4 @@ entries:
     urls:
     - https://rancher-sandbox.github.io/rancheros-operator/build/rancheros-operator-0.1.0-alpha1.tgz
     version: 0.1.0-alpha1
-generated: "2022-03-31T09:49:10.850712186Z"
+generated: "2022-03-31T09:52:31.179301132Z"
